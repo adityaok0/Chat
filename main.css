@@ -1,0 +1,17 @@
+body{
+    background-image: url("body.jpg");
+    padding:auto;
+    
+    text-align:center;
+}
+body h1{
+    font-size:100px;
+}
+.enter {
+    width:200px;
+    height:70px;
+    margin-top:300px;
+}
+.enter p{
+    font-size: 40px;
+}

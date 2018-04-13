@@ -1,0 +1,30 @@
+
+.container {
+    padding: 20px;
+    width: 40%;
+    margin-top: 2%;
+}
+
+span
+{
+    color: black;
+}
+
+#chat_box
+{
+/*    width: 90%;*/
+    height:100%;
+    margin-top: 4px;
+}
+.form-group
+{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: Brown;
+}
+
+
+body
+{
+    
+}
